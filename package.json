@@ -1,6 +1,6 @@
 {
   "author": "Peter Wong <peter.wm.wong@gmail.com>",
-  "name": "starbox-client-web",
+  "name": "sched-viz",
   "version": "0.0.0",
   "engines": {
     "node": ">=0.6.11"

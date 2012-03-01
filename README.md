@@ -1,5 +1,5 @@
-star-box-client-web
-===================
+sched-viz
+=========
 
 Credit
 ------

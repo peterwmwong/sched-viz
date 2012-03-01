@@ -12,8 +12,8 @@ Linux / Mac OS X
 
 ## 3 - Get the code
 
-    > git clone git://github.com/peterwmwong/starbox-client-web.git
-    > cd starbox-client-web
+    > git clone git://github.com/peterwmwong/sched-viz.git
+    > cd sched-viz
 
 ## 4 - Run Stylus/CoffeeScript compilers
 
@@ -39,13 +39,13 @@ In a browser, visit `http://localhost:3000/index-dev.html?usemockdata=true`.
 * [Sublime Text 2](http://www.sublimetext.com/2) *Sublime Rocks!*
   * [CoffeeScript TextMate Bundle](https://github.com/jashkenas/coffee-script-tmbundle)
   * [Stylus TextMate Bundle](https://github.com/LearnBoost/stylus/blob/master/docs/textmate.md)
-    * After running `npm install`, the `Stylus.tmbundle` directory can be found in starbox-client-web here: `{starbox-client-web Project Directory}/node_modules/stylus/editors`
+    * After running `npm install`, the `Stylus.tmbundle` directory can be found in sched-viz here: `{sched-viz Project Directory}/node_modules/stylus/editors`
 * [Vim](http://www.vim.org/) or [MacVim](http://code.google.com/p/macvim/)
   * [vim-stylus](https://github.com/wavded/vim-stylus)
   * [vim-coffee-script](https://github.com/kchmck/vim-coffee-script)
 * [TextMate](http://macromates.com/)
   * [Stylus TextMate Bundle](https://github.com/LearnBoost/stylus/blob/master/docs/textmate.md)
-    * After running `npm install`, the `Stylus.tmbundle` directory can be found in starbox-client-web here: `{starbox-client-web Project Directory}/node_modules/stylus/editors`
+    * After running `npm install`, the `Stylus.tmbundle` directory can be found in sched-viz here: `{sched-viz Project Directory}/node_modules/stylus/editors`
   * [CoffeeScript TextMate Bundle](https://github.com/jashkenas/coffee-script-tmbundle)
 
 ## Get coding!
