@@ -1,0 +1,5 @@
+.Schedule > .day > .agent_sched{line-height:10px;font-size:14px;padding:4px 10px 4px 0;width:100%;}
+.Schedule > .day > .agent_sched tr:first-child .appointments{border-top:1px dotted #444}
+.Schedule > .day > .agent_sched .agent_id{margin:0;width:50px;text-align:center;padding-bottom:4px}
+.Schedule > .day > .agent_sched .appointments{border-bottom:1px dotted #444;height:20px;position:relative;padding:10px 0 10px 0;}
+.Schedule > .day > .agent_sched .appointments > .appt{top:5px;bottom:5px;background-color:#252;position:absolute;border-radius:3px}
